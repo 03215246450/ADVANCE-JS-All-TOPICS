@@ -16,6 +16,8 @@
 // //  b. Values
 // //  c. Freeze
 // //  d. Entries
+// //  functions
+// //  higher orfer functions 
 // // // //====================Advance JS==================
 // // // //====================topics======================
 
